@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://linkedin.com/in/suhail jamal" target="blank"><img align="center"
+    <a href="https://www.linkedin.com/in/suhailjamal/" target="blank"><img align="center"
             src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw"
             alt="suhail jamal" height="40" width="40" /></a>
     <a href="https://www.hackerrank.com/@suhail58_sj" target="blank"><img align="center"
@@ -17,7 +17,7 @@
             alt="@suhail58_sj" height="40" width="40" /></a>
     <a href="https://www.leetcode.com/suhail58_sj" target="blank"><img align="center"
             src="https://leetcode.com/static/images/LeetCode_Sharing.png"
-            alt="suhail58_sj" height="40" width="40" /></a>
+            alt="suhail58_sj" height="40" width="40"  /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -49,3 +49,7 @@
             alt="python" width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"
             alt="react" width="40" height="40" /> </a> </p>
+        <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suhailjamal&show_icons=true&locale=en&layout=compact" alt="suhailjamal" width = "40%" /></p>
+
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=suhailjamal&show_icons=true&locale=en" alt="suhailjamal" /></p>
+
