@@ -1,11 +1,11 @@
 [![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)](https://SuhailJamal.io)
 <h1 align="center">Hi 👋, I'm Suhail Jamal</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<h3 align="center">A passionate Software Developer</h3>
 <img src = "https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" alt = "SOFTWARE DEV" width= "400" align = "right">
 
 - 🌱 I’m currently learning **IBM Full Stack Developer (Coursera)**
 
-- 📫 How to reach me **suhail58.sj@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
